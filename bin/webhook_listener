@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+bundle exec ruby webhook_listener.rb -p 4567
